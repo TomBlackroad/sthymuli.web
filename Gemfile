@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'nokogiri'
-gem 'rack', '~> 3.1.16'
+gem 'rack', '~> 3.2.0'
 gem 'rspec'
 
 gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
